@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 .idea/
 .virtual_documents/
+.chatai_api_key
